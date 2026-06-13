@@ -18,6 +18,10 @@
 
 ---
 
+<img width="1920" height="1080" alt="social-thumbnail" src="https://github.com/user-attachments/assets/af944958-219b-4f98-82b3-30cec4fe6290" />
+
+---
+
 ## What is it?
 FolioSys is a Bookshop Management System developed by Team Longs (named after the Chinese word for "dragon"), a group of nine students from the 26.1 General Intake of the Faculty of Computing at NSBM Green University, as part of the CS102.3 module during the First Year, First Semester.
 
